@@ -1,0 +1,215 @@
+.portada {
+ position: relative;
+ width: 100%;
+ padding: auto;
+}
+
+.navegador {
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: medium;
+    background-color: rgb(232,187,158);
+    display: flex;
+    justify-content:space-around;
+    
+}
+video {
+    width: 100%;
+    height: 10%;
+}
+.relicario {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+.cuadro {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.scrapbook {
+    width: 200px;
+}
+section{
+    display: flex;
+    flex-flow:wrap-reverse;
+    justify-content: space-around;
+}
+h3{
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: rgb(203, 78, 34);
+    font-size: medium;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    size: 300px;
+    border: none;
+    padding:20%, 10%,20%, 10%;
+    border-radius: 10%;
+    position: absolute;
+    bottom: -10px;
+    right: 10px;
+}
+.cajas2 {
+    background-color: rgb(232,187,158);
+    color: rgb(203, 78, 34);
+    width: 200px;
+    height: 250px;
+    margin: 2% 2% 2% 2%;
+    padding: 2% 2% 2% 2%;
+    position: relative;
+   
+}
+
+.cajas3 {
+    background-color: rgb(232,187,158);
+    color: rgb(203, 78, 34);
+    width: 200px;
+    height: 250px;
+    margin: 2% 2% 2% 2%;
+    padding:2% 2% 2% 2%;
+    position: relative;
+    
+}
+
+.cajas {
+    background-color: rgb(232,187,158);
+    color: rgb(203, 78, 34);
+    width: 200px;
+    height: 250px;
+    margin: 2% 2% 2% 2%;
+    padding: 2% 2% 2% 2%;
+    position: relative;
+}
+
+
+footer ul li {
+    list-style-type: none;
+    text-align: center;
+    color: rgb(203, 78, 34);
+}
+
+.tienda{
+    width: 100%;
+}
+
+.tienda1 {
+    background-color: rgb(232,187,158);
+    color: rgb(203, 78, 34);
+    width: 10%;
+    height: 250px;
+    margin: 2% 2% 2% 2%;
+    padding: 2% 2% 2% 2%;
+}
+
+
+.tienda2 {
+    background-color: rgb(232,187,158);
+    color: rgb(203, 78, 34);
+    width: 10%;
+    height: 250px;
+    margin: 2% 2% 2% 2%;
+    padding: 2% 2% 2% 2%;
+    position: absolute;
+    left: 20%;
+    top: 40%;
+}
+
+
+.tienda3 {
+    background-color: rgb(232,187,158);
+    color: rgb(203, 78, 34);
+    width: 10%;
+    height: 250px;
+    margin: 2% 2% 2% 2%;
+    padding: 2% 2% 2% 2%;
+    position: absolute;
+    left: 40%;
+    top: 40%;
+}
+
+
+.tienda4 {
+    background-color: rgb(232,187,158);
+    color: rgb(203, 78, 34);
+    width: 10%;
+    height: 250px;
+    margin: 2% 2% 2% 2%;
+    padding: 2% 2% 2% 2%;
+}
+
+
+.tienda5 {
+    background-color: rgb(232,187,158);
+    color: rgb(203, 78, 34);
+    width: 10%;
+    height: 250px;
+    margin: 2% 2% 2% 2%;
+    padding: 2% 2% 2% 2%;
+    position: absolute;
+    left: 20%;
+    top: 85%;
+}
+
+
+.tienda6 {
+    background-color: rgb(232,187,158);
+    color: rgb(203, 78, 34);
+    width: 10%;
+    height: 250px;
+    margin: 2% 2% 2% 2%;
+    padding: 2% 2% 2% 2%;
+    position: absolute;
+    left: 40%;
+    top: 85%;
+}
+
+p {
+    font-size: small;
+    color: black;
+}
+
+.tuto1 {
+    background-color: rgb(232,187,158);
+    color: rgb(203, 78, 34);
+    width: 40%;
+    height: 850px;
+    margin: 2% 2% 2% 2%;
+    padding: 2% 2% 2% 2%;
+
+}
+
+.tuto2 {
+    background-color: rgb(232,187,158);
+    color: rgb(203, 78, 34);
+    width: 20%;
+    height: 380px;
+    margin: 2% 2% 2% 2%;
+    padding: 2% 2% 2% 2%;
+    position: absolute;
+    left: 60%;
+    top: 40%;
+}
+
+.tuto3 {
+    background-color: rgb(232,187,158);
+    color: rgb(203, 78, 34);
+    width: 20%;
+    height: 380px;
+    margin: 2% 2% 2% 2%;
+    padding: 2% 2% 2% 2%;
+    position: absolute;
+    left: 60%;
+    top: 100%;
+}
+
+.tutorial {
+    width: 100%;
+}
